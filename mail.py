@@ -13,7 +13,7 @@ app.config['MAIL_USERNAME'] = "**************"
 app.config['MAIL_PASSWORD'] = "***************"
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
-app.config['MAIL_DEFAULT_SENDER'] = ('MAIL FROM ADH','mprojects834@gmail.com')
+app.config['MAIL_DEFAULT_SENDER'] = ('MAIL FROM ADH','************')
 
 mail = Mail(app)
 
